@@ -1,0 +1,14 @@
+B:\Users\garipoff\source\repos\RESTful\RESTful\bin\Debug\netcoreapp2.2\RESTful.deps.json
+B:\Users\garipoff\source\repos\RESTful\RESTful\bin\Debug\netcoreapp2.2\RESTful.runtimeconfig.json
+B:\Users\garipoff\source\repos\RESTful\RESTful\bin\Debug\netcoreapp2.2\RESTful.runtimeconfig.dev.json
+B:\Users\garipoff\source\repos\RESTful\RESTful\bin\Debug\netcoreapp2.2\RESTful.dll
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.csprojAssemblyReference.cache
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.csproj.CoreCompileInputs.cache
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.RazorAssemblyInfo.cache
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.RazorAssemblyInfo.cs
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.AssemblyInfoInputs.cache
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.AssemblyInfo.cs
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.RazorTargetAssemblyInfo.cache
+B:\Users\garipoff\source\repos\RESTful\RESTful\bin\Debug\netcoreapp2.2\RESTful.pdb
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.dll
+B:\Users\garipoff\source\repos\RESTful\RESTful\obj\Debug\netcoreapp2.2\RESTful.pdb
